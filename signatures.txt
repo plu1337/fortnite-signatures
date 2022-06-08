@@ -4,4 +4,4 @@ FreeFn: 48 85 C9 0F 84 ? ? ? ? 53 48 83 EC 20 48 89 7C 24 30 48 8B D9 48 8B 3D ?
 ProjectWorldToScreen: E8 ? ? ? ? 4C 8D 5C 24 ? 41 88 06 49 8B 5B 20 49 8B 73 30 49 8B 7B 38 (RVA 5)
 GetNameByIndex: 48 89 5C 24 ? 48 89 74 24 ? 57 48 81 EC ? ? ? ? 48 8B 05 ? ? ? ? 48 33 C4 48 89 84 24 ? ? ? ? 8B 01 48 8B F2
 BoneMatrix: E8 ? ? ? ? 0F 10 40 68 (RVA 5)
-SpreadCaller: E8 ? ? ? ? 48 8D 4B 28 E8 ? ? ? ? 48 8B C8
+SpreadCaller: E8 ? ? ? ? 48 8D 4B 28 E8 ? ? ? ? 48 8B C8 (RVA 5)
